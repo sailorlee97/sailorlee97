@@ -3,7 +3,7 @@
 - 💞️ I received a bachelor of science degree in mathematics in 2019 and entered Nanjing University of Posts and Telecommunications to study for a master's degree in computer science in the same year.
 - ✨ I'm open to:
  collaboration opportunities (anytime & anywhere & any type)
- Summer Internship:ML/Engineering Internship or Network Security.
+ Summer Internship: ML/Engineering Internship or Network Security.
 - 📫 How to reach me? 
 - Please email me 1219094708@njupt.edu.cn
 <!---
