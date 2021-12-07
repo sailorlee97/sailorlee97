@@ -13,12 +13,12 @@
 
 - 💬 Program & Research: **malicious traffic identification project** 
 
-* * **Background**: A core, high-level, and confidential sub-topic of a major national-level subject, based on domestically developed NP and AI chips, a set of malicious traffic identification and detection systems have been developed.
+* **Background**: A core, high-level, and confidential sub-topic of a major national-level subject, based on domestically developed NP and AI chips, a set of malicious traffic identification and detection systems have been developed.
 
 
- * * 1. Using DPI technology to identify the traffic collected on the chip, you can locate the malicious traffic, and then extract the features of the unidentified traffic;
- * * 2. Two-classification and multi-classification model training of malicious traffic;
- * * 3. The traffic that DPI fails to recognize is identified by the two-class and multi-class model.
+  - 1. Using DPI technology to identify the traffic collected on the chip, you can locate the malicious traffic, and then extract the features of the unidentified traffic;
+  - 2. Two-classification and multi-classification model training of malicious traffic;
+  - 3. The traffic that DPI fails to recognize is identified by the two-class and multi-class model.
 <!---
 sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
