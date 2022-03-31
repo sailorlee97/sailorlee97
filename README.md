@@ -2,7 +2,7 @@
 
 - 👀 My research interested in  network security, communication network security, anomaly detection(outlier detection) & analysis, deep packet inspection, Linux kernel network research, Heterogeneous computing, and graph neural networks.
  
-- 💞️ I received a bachelor of science degree in mathematics in 2019 and entered Nanjing University of Posts and Telecommunications to study for a master's degree in computer science in the same year.
+- 💞️ I received my Bachelor of Science degree in Mathematics in 2019 and my Master's degree in Computer Engineering in 2022. In the same year, I continued my Ph.D. in cyberspace Security at Nanjing University of Posts and Telecommunications.
 
 - ✨ I'm open to:
  collaboration opportunities (anytime & anywhere & any type)
