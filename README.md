@@ -23,7 +23,7 @@
    
 - **2. End-to-end business network traffic identification** 
    
-  * **Background**: In order to ensure the network service quality of the router, the automl algorithm is used to identify business traffic, thereby forming an intelligent forwarding strategy.
+ * **Background**: In order to ensure the network service quality of the router, the automl algorithm is used to identify business traffic, thereby forming an intelligent forwarding strategy.
 
 <!---
 sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
