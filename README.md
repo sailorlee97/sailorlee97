@@ -13,7 +13,7 @@
 
 - 💬 Program & Research: 
 
- **1. malicious traffic identification** 
+- **1. malicious traffic identification** 
 
  * **Background**: Based on domestically developed NP and AI chips, a set of malicious traffic identification and detection systems have been developed.
 
@@ -21,7 +21,7 @@
    -  Two-classification and multi-classification model training of malicious traffic;
    -  The traffic that DPI fails to recognize is identified by the two-class and multi-class model.
    
- **2. End-to-end business network traffic identification** 
+- **2. End-to-end business network traffic identification** 
    
   * **Background**: In order to ensure the network service quality of the router, the automl algorithm is used to identify business traffic, thereby forming an intelligent forwarding strategy.
 
