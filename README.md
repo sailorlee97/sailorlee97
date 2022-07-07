@@ -11,14 +11,19 @@
 - 📫 How to reach me? 
 - Please email me 1219094708@njupt.edu.cn
 
-- 💬 Program & Research: **malicious traffic identification project** 
+- 💬 Program & Research: 
+ **1. malicious traffic identification** 
 
  * **Background**: Based on domestically developed NP and AI chips, a set of malicious traffic identification and detection systems have been developed.
-
 
    -  Using DPI technology to identify the traffic collected on the chip, you can locate the malicious traffic, and then extract the features of the unidentified traffic;
    -  Two-classification and multi-classification model training of malicious traffic;
    -  The traffic that DPI fails to recognize is identified by the two-class and multi-class model.
+   
+ **2. End-to-end business network traffic identification** 
+   
+  * **Background**: In order to ensure the network service quality of the router, the automl algorithm is used to identify business traffic, thereby forming an intelligent forwarding strategy.
+
 <!---
 sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
