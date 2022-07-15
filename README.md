@@ -13,7 +13,7 @@
 
 - 💬 Program & Research: 
 
-- **1. malicious traffic identification** 
+- **1. Malicious traffic identification** 
 
   * **Background**: Based on domestically developed NP and AI chips, a set of malicious traffic identification and detection systems have been developed.
 
