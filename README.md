@@ -24,7 +24,10 @@
 - **2. End-to-end business network traffic identification** 
    
   * **Background**: In order to ensure the network service quality of the router, the automl algorithm is used to identify business traffic, thereby forming an intelligent forwarding strategy.
-
+  
+- **3. Machine learning system based on radiomics applied to brain surgery** 
+  
+  * **Background**: Based on imaging omics, machine learning methods were used to determine whether co-deletion of 1P /19q genes existed. The method is non-invasive and has great potential for treatment.
 <!---
 sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
