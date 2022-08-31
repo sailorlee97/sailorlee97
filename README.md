@@ -15,7 +15,7 @@
 
 - **1. Malicious traffic identification** 
 
-  * **Background**: Based on domestically developed NP and AI chips, a set of malicious traffic identification and detection systems have been developed.
+  * **Background**: Based on domestically NP and AI chips, we have developed malicious traffic identification and detection systems.
 
    -  Using DPI technology to identify the traffic collected on the chip, you can locate the malicious traffic, and then extract the features of the unidentified traffic;
    -  Two-classification and multi-classification model training of malicious traffic;
