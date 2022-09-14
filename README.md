@@ -9,7 +9,7 @@
  Summer Internship: ML/Engineering Internship or Network Security.
  
 - 📫 How to reach me? 
-- Please email me 1219094708@njupt.edu.cn
+- Please email me 2022040506@njupt.edu.cn
 
 - 💬 Program & Research: 
 
