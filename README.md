@@ -25,7 +25,7 @@
    
   * **Background**: In order to ensure the network service quality of the router, the automl algorithm is used to identify business traffic, thereby forming an intelligent forwarding strategy.
   
-- **3. Machine learning system based on radiomics applied to brain surgery** 
+- **3. Deep learning system based on radiomics applied to brain surgery** 
   
   * **Background**: Based on imaging omics, machine learning methods were used to determine whether co-deletion of 1P /19q genes existed. The method is noninvasive and has great potential for treatment.
 <!---
