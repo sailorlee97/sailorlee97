@@ -20,8 +20,7 @@
    -  Using DPI technology to identify the traffic collected on the chip, you can locate the malicious traffic, and then extract the features of the unidentified traffic;
    -  Two-classification and multi-classification model training of malicious traffic;
    -  The traffic that DPI fails to recognize is identified by the two-class and multi-class model.
-   -  
-LI Zeyi, WANG Pan, WANG Zixuan. FlowGANAnomaly: Flow-based Anomaly Network Intrusion Detection with Adversarial Learning[J]. Chinese Journal of Electronics. doi: 10.23919/cje.2022.00.173
+   -  Reference：LI Zeyi, WANG Pan, WANG Zixuan. FlowGANAnomaly: Flow-based Anomaly Network Intrusion Detection with Adversarial Learning[J]. Chinese Journal of Electronics. doi: 10.23919/cje.2022.00.173
    
 - **2. End-to-end business network traffic identification** 
    
