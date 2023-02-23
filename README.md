@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zeyi Li
+- 👋 Hi, I’m Zeyi Li  
 
 - 👀 My research interested in  network security, communication network security, anomaly detection(outlier detection) & analysis, deep packet inspection, Linux kernel network research, Industrial Internet, and graph neural networks.
  
@@ -11,6 +11,10 @@
 - 📫 How to reach me? 
 - Please email me 2022040506@njupt.edu.cn
 
+[![Zeyi's github stats](https://github-readme-stats.vercel.app/api?username=sailorlee97&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sailorlee97&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+----
 
 - 💬 Program & Research: 
 
@@ -34,6 +38,8 @@
 sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+----
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=sailorlee97&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
-[![Zeyi's github stats](https://github-readme-stats.vercel.app/api?username=sailorlee97&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
