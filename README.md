@@ -11,6 +11,7 @@
 - 📫 How to reach me? 
 - Please email me 2022040506@njupt.edu.cn
 
+
 - 💬 Program & Research: 
 
 - **1. Malicious traffic identification** 
@@ -34,7 +35,5 @@ sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=sailorlee97&date_format=M%20j%5B%2C%20Y%5D" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=sailorlee97&show_icons=true" />
-</div>
+[![Zeyi's github stats](https://github-readme-stats.vercel.app/api?username=sailorlee97&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
