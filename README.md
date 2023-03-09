@@ -4,12 +4,20 @@
  
 - 💞️ **Short Bio：**  I received my B.S. degree in Mathematics in 2019 and my M.E. degree in Computer Engineering in 2022. In the same year, I am pursuing my Ph.D. in Cyberspace Security at Nanjing University of Posts and Telecommunications.
 
-- ✨ I'm open to:
- collaboration opportunities (anytime & anywhere & any type)
- Summer Internship: ML/Engineering Internship or Network Security.
+ - ✨ I'm open to:  
+ collaboration opportunities (anytime & anywhere & any type) 
  
-- 📫 How to reach me? 
-- Please email me 2022040506@njupt.edu.cn
+ - 🔭 **Internship:**   
+ [Nanjing Future Network Co., Ltd.](fnic.cn/about.html)  
+ Research Internship： Network Tunnel traffic detection and analysis & ML/Engineering
+ 
+ - ⚡ **Professional Services**  
+ [Computer Systems Science and Engineering](https://www.techscience.com/journal/csse), Reviewer  
+ [International Conference on Networks, Communication and Information Technology](http://www.ncitconf.org/), Reviewer
+  
+ 
+- 📫 How to reach me?   
+ Please email me 2022040506@njupt.edu.cn
 
 ----
 
