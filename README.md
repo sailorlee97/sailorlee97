@@ -39,6 +39,7 @@
 - **3. Deep learning system based on radiomics applied to brain surgery** 
   
   * **Background**: Based on imaging omics, machine learning methods were used to determine whether co-deletion of 1P /19q genes existed. The method is noninvasive and has great potential for treatment.
+  - **Reference**：Li F, Chen A, **Li Z**, Gu L, Pan Q, Wang P, Fan Y, Feng J. [Machine learning-based prediction of cerebral hemorrhage in patients with hemodialysis: A multicenter, retrospective study](https://pubmed.ncbi.nlm.nih.gov/37077571/). Front Neurol. 2023 Apr 3;14:1139096. doi: 10.3389/fneur.2023.1139096. PMID: 37077571; PMCID: PMC10109449.
 <!---
 sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
