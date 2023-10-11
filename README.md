@@ -23,7 +23,7 @@
 
 - 💬 Program & Research: 
 
-- **1. Malicious traffic identification** 
+- **Malicious traffic identification** 
 
   * **Background**: Based on domestically NP and AI chips, we have developed malicious traffic identification and detection systems.
 
@@ -31,12 +31,12 @@
    -  Two-classification and multi-classification model training of malicious traffic;
    -  The traffic that DPI fails to recognize is identified by the two-class and multi-class model.
    -  **Reference**：**LI Zeyi**, WANG Pan, WANG Zixuan. [FlowGANAnomaly: Flow-based Anomaly Network Intrusion Detection with Adversarial Learning](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2022.00.173)[J]. Chinese Journal of Electronics. doi: 10.23919/cje.2022.00.173
+   -  **Patents**：Semi-supervised network traffic anomaly detection method based on generative adversarial networks，Chinese national invention patent, CN115174178B, 20230704
+- **Research on algorithms for identifying traffic service types** 
    
-- **2. End-to-end business network traffic identification** 
-   
-  * **Background**: In order to ensure the network service quality of the router, the automl algorithm is used to identify business traffic, thereby forming an intelligent forwarding strategy.
+  * **Background**:  In order to ensure the network service quality of the router, this project investigates the key technology of router traffic information classification based on AI (Artificial Intelligence) technology.
   
-- **3. Deep learning system based on radiomics applied to brain surgery** 
+- **Deep learning system based on radiomics applied to brain surgery** 
   
   * **Background**: Based on imaging omics, machine learning methods were used to determine whether co-deletion of 1P /19q genes existed. The method is noninvasive and has great potential for treatment.
   - **Reference**：Li F, Chen A, **Li Z**, Gu L, Pan Q, Wang P, Fan Y, Feng J. [Machine learning-based prediction of cerebral hemorrhage in patients with hemodialysis: A multicenter, retrospective study](https://pubmed.ncbi.nlm.nih.gov/37077571/). Front Neurol. 2023 Apr 3;14:1139096. doi: 10.3389/fneur.2023.1139096. PMID: 37077571; PMCID: PMC10109449.
