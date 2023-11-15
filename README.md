@@ -35,7 +35,7 @@
 - **Research on algorithms for identifying traffic service types** 
    
   * **Background**:  In order to ensure the network service quality of the router, this project investigates the key technology of router traffic information classification based on AI (Artificial Intelligence) technology.
-  
+  -  **Reference**：Wang P, **Li Z**, Fu M, et al. [FedEdge AI-TC: A Semi-supervised Traffic Classification Method based on Trusted Federated Deep Learning for Mobile Edge Computing](https://arxiv.org/pdf/2308.06924.pdf)[J]. arXiv preprint arXiv:2308.06924, 2023.
 - **Deep learning system based on radiomics applied to brain surgery** 
   
   * **Background**: Based on imaging omics, machine learning methods were used to determine whether co-deletion of 1P /19q genes existed. The method is noninvasive and has great potential for treatment.
