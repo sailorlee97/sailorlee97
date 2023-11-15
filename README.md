@@ -32,7 +32,7 @@
    -  The traffic that DPI fails to recognize is identified by the two-class and multi-class model.
    -  **Reference**：**LI Zeyi**, WANG Pan, WANG Zixuan. [FlowGANAnomaly: Flow-based Anomaly Network Intrusion Detection with Adversarial Learning](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2022.00.173)[J]. Chinese Journal of Electronics. doi: 10.23919/cje.2022.00.173
    -  **Patents**：Semi-supervised network traffic anomaly detection method based on generative adversarial networks，Chinese national invention patent, CN115174178B, 20230704
-- **Research on algorithms for identifying traffic service types** 
+- **Research on algorithms for identifying traffic service types** (R&d with ZTE)
    
   * **Background**:  In order to ensure the network service quality of the router, this project investigates the key technology of router traffic information classification based on AI (Artificial Intelligence) technology.
   -  **Reference**：Wang P, **Li Z**, Fu M, et al. [FedEdge AI-TC: A Semi-supervised Traffic Classification Method based on Trusted Federated Deep Learning for Mobile Edge Computing](https://arxiv.org/pdf/2308.06924.pdf)[J]. arXiv preprint arXiv:2308.06924, 2023.
