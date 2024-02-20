@@ -30,7 +30,7 @@
    -  Using DPI technology to identify the traffic collected on the chip, you can locate the malicious traffic, and then extract the features of the unidentified traffic;
    -  Two-classification and multi-classification model training of malicious traffic;
    -  The traffic that DPI fails to recognize is identified by the two-class and multi-class model.
-   -  **Reference**：**LI Zeyi**, WANG Pan, WANG Zixuan. [FlowGANAnomaly: Flow-based Anomaly Network Intrusion Detection with Adversarial Learning](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2022.00.173)[J]. Chinese Journal of Electronics. doi: 10.23919/cje.2022.00.173
+   -  **Reference**：**LI Zeyi**, Pan WANG, Zixuan WANG, “[FlowGANAnomaly: Flow-based Anomaly Network Intrusion Detection with Adversarial Learning](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2022.00.173),” Chinese Journal of Electronics,  vol. 33, no. 1, pp. 58–71, 2024 doi:  10.23919/cje.2022.00.173
    -  **Patents**：Semi-supervised network traffic anomaly detection method based on generative adversarial networks，Chinese national invention patent, CN115174178B, 20230704
 - **Research on algorithms for identifying traffic service types** (R&d with ZTE)
    
