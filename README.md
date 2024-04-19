@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Zeyi Li](https://scholar.google.com/citations?hl=zh-CN&user=G5j-o3AAAAAJ&view_op=list_works&gmla=AH70aAWbzxEZIKoI7-Q0AdkcfjUcj1eFCR0XzRJhwmTT-Sjd08GW9ew3sPtj-7D7GVfSclPAkfGy8VypgnfdQHF9_IYNAht0ogyU7VNyBYs)  
 
-- 👀 My research interested in  network security, communication network security, anomaly detection(outlier detection) & analysis, deep packet inspection, Linux kernel network research, Industrial Internet, and Healthcare 4.0.
+- 👀 My research interested in  network security, communication network security, anomaly detection(outlier detection) & analysis, deep packet inspection, Linux kernel network research, Industrial Internet and Healthcare 4.0.
  
 - 💞️ **Short Bio：**  I received my B.S. degree in Mathematics in 2019 and my M.E. degree in Computer Engineering in 2022. In the same year, I am pursuing my Ph.D. in Cyberspace Security at [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/en/).
  - ✨ I'm open to:  
