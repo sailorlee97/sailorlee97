@@ -20,7 +20,7 @@
 
 ----
 
-- 💬 Program & Research: 
+- 💬 Project & Research: 
 
 - **Malicious traffic identification** 
 
