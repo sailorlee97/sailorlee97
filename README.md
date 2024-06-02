@@ -39,13 +39,17 @@
   -  **Reference**：
   -  [1] Wang Z X, **Li Z Y**, Fu M Y, et al. [Network traffic classification based on federated semi-supervised learning](https://www.sciencedirect.com/science/article/pii/S1383762124000286)[J]. Journal of Systems Architecture, 2024: 103091.
   -  [2] Wang P, **Li Z**, Fu M, et al. [FedEdge AI-TC: A Semi-supervised Traffic Classification Method based on Trusted Federated Deep Learning for Mobile Edge Computing](https://arxiv.org/pdf/2308.06924.pdf)[J]. arXiv preprint arXiv:2308.06924, 2023.
+  -  [3] **Zeyi Li**, Minyao Liu, Pan Wang, Xiaokang Zhou, Multi-ARCL: Multimodal Adaptive Relay-based Continual Learning for Encrypted Traffic Classification. (under review)
+  -  [4] **Zeyi Li**, Ze Zhang, Mengyi Fu, Pan Wang, A novel network flow feature scaling method based on cloud-edge collaboration, TrustCom2023, to appear.
+
+
 - **Deep learning system based on radiomics applied to brain surgery** 
   
   * **Background**: Based on imaging omics, machine learning methods were used to determine whether co-deletion of 1P /19q genes existed. The method is noninvasive and has great potential for treatment.
   - **Reference**：
-  - [1]Li F, Chen A, **Li Z**, Gu L, Pan Q, Wang P, Fan Y, Feng J. [Machine learning-based prediction of cerebral hemorrhage in patients with hemodialysis: A multicenter, retrospective study](https://pubmed.ncbi.nlm.nih.gov/37077571/). Front Neurol. 2023 Apr 3;14:1139096. doi: 10.3389/fneur.2023.1139096. PMID: 37077571; PMCID: PMC10109449.
-  - [2]Gu, L., Hu, H., Wu, S., Li, F., **Li, Z.**, Xiao, Y., ... & Fan, Y. (2023). [Machine learning predictors of risk of death within 7 days in patients with non-traumatic subarachnoid hemorrhage in the intensive care unit: A multicenter retrospective study](https://www.cell.com/heliyon/pdf/S2405-8440(23)11151-0.pdf). Heliyon.
-<!---
+  - [1] Li F, Chen A, **Li Z**, Gu L, Pan Q, Wang P, Fan Y, Feng J. [Machine learning-based prediction of cerebral hemorrhage in patients with hemodialysis: A multicenter, retrospective study](https://pubmed.ncbi.nlm.nih.gov/37077571/). Front Neurol. 2023 Apr 3;14:1139096. doi: 10.3389/fneur.2023.1139096. PMID: 37077571; PMCID: PMC10109449.
+  - [2] Gu, L., Hu, H., Wu, S., Li, F., **Li, Z.**, Xiao, Y., ... & Fan, Y. (2023). [Machine learning predictors of risk of death within 7 days in patients with non-traumatic subarachnoid hemorrhage in the intensive care unit: A multicenter retrospective study](https://www.cell.com/heliyon/pdf/S2405-8440(23)11151-0.pdf). Heliyon.
+  - [3] Zeyi Li, Ze Zhang, Ye Wang, Liang Xu, Pan Wang, Xiaokang Zhou, Conditional Denoising Diffusion Probabilistic-based Generative Model for Tabular Data Augmentation in Healthcare 5.0, IEEE Transactions on Consumer Electronics (under review).
 sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
