@@ -50,8 +50,7 @@
   - [1] Li F, Chen A, **Li Z**, Gu L, Pan Q, Wang P, Fan Y, Feng J. [Machine learning-based prediction of cerebral hemorrhage in patients with hemodialysis: A multicenter, retrospective study](https://pubmed.ncbi.nlm.nih.gov/37077571/). Front Neurol. 2023 Apr 3;14:1139096. doi: 10.3389/fneur.2023.1139096. PMID: 37077571; PMCID: PMC10109449.
   - [2] Gu, L., Hu, H., Wu, S., Li, F., **Li, Z.**, Xiao, Y., ... & Fan, Y. (2023). [Machine learning predictors of risk of death within 7 days in patients with non-traumatic subarachnoid hemorrhage in the intensive care unit: A multicenter retrospective study](https://www.cell.com/heliyon/pdf/S2405-8440(23)11151-0.pdf). Heliyon.
   - [3] Zeyi Li, Ze Zhang, Ye Wang, Liang Xu, Pan Wang, Xiaokang Zhou, Conditional Denoising Diffusion Probabilistic-based Generative Model for Tabular Data Augmentation in Healthcare 5.0, IEEE Transactions on Consumer Electronics (under review).
-sailorlee97/sailorlee97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 ----
 [![Zeyi's github stats](https://github-readme-stats.vercel.app/api?username=sailorlee97&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
