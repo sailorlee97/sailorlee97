@@ -15,7 +15,7 @@
  [CMC-Computers, Materials & Continua](https://www.techscience.com/cmc/index.html), Reviewer  
  [International Conference on Networks, Communication and Information Technology](http://www.ncitconf.org/), Reviewer  
  
- - Personal Interests: Soccer, Climb and Jiu-Jitsu
+ - Personal Interests: Soccer, Rock Climb and Brazilian Jiu-Jitsu
  
 - 📫 How to reach me?   
  Please email me 2022040506@njupt.edu.cn
