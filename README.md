@@ -40,7 +40,7 @@
   -  [1] **Li Z**, Zhang Z, Fu M, et al. [A novel network flow feature scaling method based on cloud-edge collaboration](https://ieeexplore.ieee.org/abstract/document/10538990)[C]//2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2023: 1947-1953. (CCF-C)
   -  [2] Wang Z X, **Li Z Y**, Fu M Y, et al. [Network traffic classification based on federated semi-supervised learning](https://www.sciencedirect.com/science/article/pii/S1383762124000286)[J]. Journal of Systems Architecture, 2024: 103091. (CCF-B)
   -  [3] Wang P, **Li Z**, Fu M, et al. [FedEdge AI-TC: A Semi-supervised Traffic Classification Method based on Trusted Federated Deep Learning for Mobile Edge Computing](https://arxiv.org/pdf/2308.06924.pdf)[J]. arXiv preprint arXiv:2308.06924, 2023.
-  -  [4] **Zeyi Li**, Minyao Liu, Pan Wang, Xiaokang Zhou, Multi-ARCL: Multimodal Adaptive Relay-based Continual Learning for Encrypted Traffic Classification. (under review)
+  -  [4] **Zeyi Li**, Minyao Liu, Pan Wang, Xiaokang Zhou, Multi-ARCL: Multimodal Adaptive Relay-based Distributed Continual Learning for Encrypted Traffic Classification. (under review)
 
 
 - **Deep learning system based on radiomics applied to brain surgery** 
