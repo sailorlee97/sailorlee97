@@ -38,7 +38,7 @@
    
   * **Background**:  In order to ensure the network service quality of the router, this project investigates the key technology of router traffic information classification based on AI (Artificial Intelligence) technology.
   -  **Reference**：
-  -  [1] **Zeyi Li**, Liu M, Wang P, et al. Multi-ARCL: Multimodal Adaptive Relay-based Distributed Continual Learning for Encrypted Traffic Classification[J]. Journal of Parallel and Distributed Computing, 2025: 105083.(CCF-B)
+  -  [1] **Zeyi Li**, Liu M, Wang P, et al. [Multi-ARCL: Multimodal Adaptive Relay-based Distributed Continual Learning for Encrypted Traffic Classification](https://www.sciencedirect.com/science/article/pii/S0743731525000504)[J]. Journal of Parallel and Distributed Computing, 2025: 105083.(CCF-B)
   -  [2]  **Li Z**, Zhang Z, Fu M, et al. [A novel network flow feature scaling method based on cloud-edge collaboration](https://ieeexplore.ieee.org/abstract/document/10538990)[C]//2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2023: 1947-1953. (CCF-C)
   -  [3] Wang Z X, **Li Z Y**, Fu M Y, et al. [Network traffic classification based on federated semi-supervised learning](https://www.sciencedirect.com/science/article/pii/S1383762124000286)[J]. Journal of Systems Architecture, 2024: 103091. (CCF-B)
 
