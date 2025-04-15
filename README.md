@@ -14,8 +14,11 @@
  [Computer Systems Science and Engineering](https://www.techscience.com/journal/csse), Reviewer  
  [CMC-Computers, Materials & Continua](https://www.techscience.com/cmc/index.html), Reviewer  
  [International Conference on Networks, Communication and Information Technology](http://www.ncitconf.org/), Reviewer  
-[Journal of Aerospace Technology and Management](https://jatm.com.br/jatm), Reviewer
- [Journal of Parallel and Distributed Computing]((https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)), Reviewer
+[Journal of Aerospace Technology and Management](https://jatm.com.br/jatm), Reviewer  
+[Journal of Parallel and Distributed Computing](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), Reviewer
+
+
+  
 
  - Personal Interests: Soccer, Rock Climb and Brazilian Jiu-Jitsu
  
