@@ -15,7 +15,8 @@
  [CMC-Computers, Materials & Continua](https://www.techscience.com/cmc/index.html), Reviewer  
  [International Conference on Networks, Communication and Information Technology](http://www.ncitconf.org/), Reviewer  
 [Journal of Aerospace Technology and Management](https://jatm.com.br/jatm), Reviewer
- 
+ [Journal of Parallel and Distributed Computing]([https://jatm.com.br/jatm](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)), Reviewer
+
  - Personal Interests: Soccer, Rock Climb and Brazilian Jiu-Jitsu
  
 - 📫 How to reach me?   
