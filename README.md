@@ -45,6 +45,7 @@
   -  [1] **Zeyi Li**, Liu M, Wang P, et al. [Multi-ARCL: Multimodal Adaptive Relay-based Distributed Continual Learning for Encrypted Traffic Classification](https://www.sciencedirect.com/science/article/pii/S0743731525000504)[J]. Journal of Parallel and Distributed Computing, 2025: 105083.(CCF-B)
   -  [2]  **Li Z**, Zhang Z, Fu M, et al. [A novel network flow feature scaling method based on cloud-edge collaboration](https://ieeexplore.ieee.org/abstract/document/10538990)[C]//2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2023: 1947-1953. (CCF-C)
   -  [3] Wang Z X, **Li Z Y**, Fu M Y, et al. [Network traffic classification based on federated semi-supervised learning](https://www.sciencedirect.com/science/article/pii/S1383762124000286)[J]. Journal of Systems Architecture, 2024: 103091. (CCF-B)
+  -  [4] M. Liu, P. Wang, **Z. Li**, Y. Ye, Z. Wang and X. Chen, [UDDA-TC: Unsupervised Real-Time Drift Detection and Adaptation for Continual Traffic Classification in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/11036799)[J] in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2025.3579882. 
 
 
 - **Deep learning system based on radiomics applied to brain surgery** 
