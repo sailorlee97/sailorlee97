@@ -52,9 +52,10 @@
   
   * **Background**: Based on imaging omics, machine learning methods were used to determine whether co-deletion of 1P /19q genes existed. The method is noninvasive and has great potential for treatment.
   - **Reference**：
-  - [1] Li F, Chen A, **Li Z**, Gu L, Pan Q, Wang P, Fan Y, Feng J. [Machine learning-based prediction of cerebral hemorrhage in patients with hemodialysis: A multicenter, retrospective study](https://pubmed.ncbi.nlm.nih.gov/37077571/). Front Neurol. 2023 Apr 3;14:1139096. doi: 10.3389/fneur.2023.1139096. PMID: 37077571; PMCID: PMC10109449.
-  - [2] Gu, L., Hu, H., Wu, S., Li, F., **Li, Z.**, Xiao, Y., ... & Fan, Y. (2023). [Machine learning predictors of risk of death within 7 days in patients with non-traumatic subarachnoid hemorrhage in the intensive care unit: A multicenter retrospective study](https://www.cell.com/heliyon/pdf/S2405-8440(23)11151-0.pdf). Heliyon.
-  - [3] **Zeyi Li**, Wangyu Su, Ye Wang, Liang Xu, Pan Wang, Xiaokang Zhou, Conditional Denoising Diffusion Probabilistic-based Generative Model for Tabular Data Augmentation in Healthcare 5.0(under review).
+  - [1] Li, F., **Li, Z.**, Xu, H. et al. Prediction of 1p/19q state in glioma by integrated deep learning method based on MRI radiomics. BMC Cancer 25, 1228 (2025). https://doi.org/10.1186/s12885-025-14454-9
+  - [2] Li F, Chen A, **Li Z**, Gu L, Pan Q, Wang P, Fan Y, Feng J. [Machine learning-based prediction of cerebral hemorrhage in patients with hemodialysis: A multicenter, retrospective study](https://pubmed.ncbi.nlm.nih.gov/37077571/). Front Neurol. 2023 Apr 3;14:1139096. doi: 10.3389/fneur.2023.1139096. PMID: 37077571; PMCID: PMC10109449.
+  - [3] Gu, L., Hu, H., Wu, S., Li, F., **Li, Z.**, Xiao, Y., ... & Fan, Y. (2023). [Machine learning predictors of risk of death within 7 days in patients with non-traumatic subarachnoid hemorrhage in the intensive care unit: A multicenter retrospective study](https://www.cell.com/heliyon/pdf/S2405-8440(23)11151-0.pdf). Heliyon.
+  - [4] **Zeyi Li**, Wangyu Su, Ye Wang, Liang Xu, Pan Wang, Xiaokang Zhou, Conditional Denoising Diffusion Probabilistic-based Generative Model for Tabular Data Augmentation in Healthcare 5.0(under review).
 
 --->
 ----
